@@ -1,0 +1,1 @@
+import{j as e}from"./index-kH_MM8uZ.js";import{P as r}from"./PageTitle-D1X1oCzo.js";const s=()=>e.jsx(e.Fragment,{children:e.jsx(r,{breadCrumbItems:[{label:"Pages",path:"/pages/starter"},{label:"Starter",path:"/pages/starter",active:!0}],title:"User Dashboard"})});export{s as default};
