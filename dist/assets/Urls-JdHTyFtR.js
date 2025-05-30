@@ -1,1 +1,0 @@
-const t="https://freedomtv.s3.ap-south-1.amazonaws.com/",o="https://betaftv-apis.watcho.com/Api/",s="AWSRekognition/Logout",a="AWSRekognition/GetAllJobs",e="AWSRekognition/GetVideoDetails",i="http://13.234.235.198:9000";export{e as a,i as b,o as c,a as g,t as i,s as l};

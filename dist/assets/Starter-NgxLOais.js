@@ -1,1 +1,0 @@
-import{j as t}from"./index-DQATgoiV.js";import{P as e}from"./PageTitle-TixprMXC.js";const s=()=>t.jsx(t.Fragment,{children:t.jsx(e,{breadCrumbItems:[{label:"Pages",path:"/pages/starter"},{label:"Starter",path:"/pages/starter",active:!0}],title:"Starter"})});export{s as default};
